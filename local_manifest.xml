@@ -7,7 +7,7 @@
   <project path="device/samsung/fortunafz" name="Samsung-MSM8916/android_device_samsung_fortunafz" remote="github" revision="cm-14.1" />
   <project path="device/lenovo/a6000" name="dev-harsh1998/android_device_lenovo_a6000" remote="github" revision="cm-14.1-new" />
   <project path="device/samsung/j5ltexx" name="j5-Dev-Stable/android_device_samsung_j5ltexx" remote="github" revision="cm-14.1" />
-  <project path="device/samsung/j5nltexx" name="android_device_samsung_j5nltexx" remote="github" revision="cm-14.1" />
+  <project path="device/samsung/j5nltexx" name="j5-Dev-Stable/android_device_samsung_j5nltexx" remote="github" revision="cm-14.1" />
 
   <!-- Common Trees -->
   <project path="device/samsung/fortunaxx-common" name="Samsung-MSM8916/android_device_samsung_fortunaxx-common" remote="github" revision="cm-14.1" />
