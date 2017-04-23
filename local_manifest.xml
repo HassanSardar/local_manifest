@@ -5,36 +5,23 @@
   <project path="device/samsung/fortuna3g" name="Samsung-MSM8916/android_device_samsung_fortuna3g" remote="github" revision="cm-14.1" />
   <project path="device/samsung/fortunave3g" name="Samsung-MSM8916/android_device_samsung_fortunave3g" remote="github" revision="cm-14.1" />
   <project path="device/samsung/fortunafz" name="Samsung-MSM8916/android_device_samsung_fortunafz" remote="github" revision="cm-14.1" />
-  <project path="device/samsung/j5ltexx" name="j5-Dev-Stable/android_device_samsung_j5ltexx" remote="github" revision="cm-14.1" />
-  <project path="device/samsung/j5nltexx" name="j5-Dev-Stable/android_device_samsung_j5nltexx" remote="github" revision="cm-14.1" />
   <project path="device/samsung/j7eltexx" name="Exynos7580/android_device_samsung_j7eltexx" remote="github" revision="cm-14.1" />
   <project path="device/samsung/grandprimeve3g" name="remilia15/android_device_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
   
  <!-- Common Trees -->
   <project path="device/samsung/fortunaxx-common" name="HassanSardar/android_device_samsung_fortunaxx-common" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunaxx-common" name="HassanSardar/android_vendor_samsung_fortunaxx-common" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung/j5-common" name="j5-Dev-Stable/proprietary_vendor_samsung_j5-common" remote="github" revision="cm-14.1" />
-  <project path="device/samsung/j5-common" name="j5-Dev-Stable/android_device_samsung_j5-common" remote="github" revision="cm-14.1" />
-  <project path="device/samsung/sprd-common" name="remilia15/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
-  <project path="device/samsung/scx30g2-common" name="remilia15/android_device_samsung_scx30g2-common" remote="github" revision="cm-14.1"/>
-  <project path="device/samsung/scx35-common" name="remilia15/android_device_samsung_scx35-common" remote="github" revision="cm-14.1"/>
-  <project path="vendor/samsung/scx30g2-common" name="remilia15/android_vendor_samsung_scx30g2-common" remote="github" revision="cm-14.1"/>
   <project path="device/samsung/exynos7580-common" name="Exynos7580/android_device_samsung_exynos7580-common" remote="github" revision="cm-14.1"/>
  
 <!-- Vendor -->
   <project path="vendor/samsung/fortuna3g" name="Samsung-MSM8916/android_vendor_samsung_fortuna3g" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunave3g" name="Samsung-MSM8916/android_vendor_samsung_fortunave3g" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunafz" name="Samsung-MSM8916/android_vendor_samsung_fortunafz" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung/j5ltexx" name="j5-Dev-Stable/proprietary_vendor_samsung_j5ltexx" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung/j5nltexx" name="j5-Dev-Stable/proprietary_vendor_samsung_j5nltexx" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/j7eltexx" name="Exynos7580/android_vendor_samsung_j7eltexx" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung/grandprimeve3g" name="remilia15/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
   
 <!-- Kernel -->
   <project path="kernel/samsung/fortunaxx" name="HassanSardar/android_kernel_samsung_msm8916" remote="github" revision="cm-14.1" />
-  <project path="kernel/samsung/j5lte" name="j5-Dev-Stable/kernel_samsung_j5lte" remote="github" revision="cm-14.1-new" />
   <project path="kernel/samsung/a3xelte" name="Exynos7580/android_kernel_samsung_a3xelte" remote="github" revision="cm-14.1" />
-  <project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-RZ" remote="github" revision="cm-14.1"/>
  
  <!-- Extras -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
@@ -44,7 +31,6 @@
   <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" />
   <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
-  <project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
   <project path="hhardware/samsung_slsi-cm/exynos7580" name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" remote="github" revision="cm-14.1" />
