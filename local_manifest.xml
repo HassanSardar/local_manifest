@@ -33,7 +33,7 @@
 <!-- Kernel -->
   <project path="kernel/samsung/fortunaxx" name="HassanSardar/android_kernel_samsung_msm8916" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/j5lte" name="j5-Dev-Stable/kernel_samsung_j5lte" remote="github" revision="cm-14.1-new" />
-  <project path="kernel/samsung/j7elte" name="Exynos7580/android_kernel_samsung_j7elte" remote="github" revision="cm-14.1" />
+  <project path="kernel/samsung/a3xelte" name="Exynos7580/android_kernel_samsung_a3xelte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-RZ" remote="github" revision="cm-14.1"/>
  
  <!-- Extras -->
@@ -45,6 +45,9 @@
   <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
   <project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
-  <project path="hardware/samsung/slsi-cm/exynos7580" name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" remote="github" revision="cm-14.1" />
+  <project path="hhardware/samsung_slsi-cm/exynos7580" name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" remote="github" revision="cm-14.1" />
+  <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="github" revision="cm-14.1" />
+  <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" remote="github" revision="cm-14.1" />
+  <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" remote="github" revision="cm-14.1" />
 
 </manifest>
