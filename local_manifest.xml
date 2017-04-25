@@ -49,7 +49,7 @@
   <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
   <project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
-  <project path="hhardware/samsung_slsi-cm/exynos7580" name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" remote="github" revision="cm-14.1" />
+  <project path="hardware/samsung_slsi-cm/exynos7580" name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" remote="github" revision="cm-14.1" />
