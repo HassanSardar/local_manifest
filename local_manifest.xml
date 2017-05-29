@@ -21,6 +21,7 @@
   <project path="device/samsung/scx35-common" name="remilia15/android_device_samsung_scx35-common" remote="github" revision="cm-14.1"/>
   <project path="vendor/samsung/scx30g2-common" name="remilia15/android_vendor_samsung_scx30g2-common" remote="github" revision="cm-14.1"/>
   <project path="device/samsung/exynos7580-common" name="Exynos7580/android_device_samsung_exynos7580-common" remote="github" revision="cm-14.1"/>
+  <project path="vendor/samsung/exynos7580-common" name="Exynos7580/android_vendor_samsung_exynos7580-common" remote="github" revision="cm-14.1"/>
   <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
  
 <!-- Vendor -->
