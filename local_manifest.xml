@@ -10,7 +10,7 @@
  
  <!-- Common Trees -->
   <project path="device/samsung/fortunaxx-common" name="GalaxyGrandPrime/android_device_samsung_fortunaxx-common" remote="github" revision="7.x" />
-  <project path="vendor/samsung/fortunaxx-common" name="Samsung-MSM8916/android_vendor_samsung_fortunaxx-common" remote="github" revision="cm-14.1" />
+  <project path="vendor/samsung/fortunaxx-common" name="GalaxyGrandPrime/android_vendor_samsung_fortunaxx-common" remote="github" revision="cm-14.1" />
   <project path="device/samsung/exynos7580-common" name="Exynos7580/android_device_samsung_exynos7580-common" remote="github" revision="cm-14.1"/>
   <project path="vendor/samsung/exynos7580-common" name="Exynos7580/android_vendor_samsung_exynos7580-common" remote="github" revision="cm-14.1"/>
  
@@ -28,7 +28,7 @@
  
  <!-- Extras -->
   <!-- project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" / -->
-  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-14.1" />
+  <project path="device/samsung/qcom-common" name="GalaxyGrandPrime/android_device_samsung_qcom-common" remote="github" revision="7.x" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
   <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
   <!-- project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" / -->
