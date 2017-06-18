@@ -8,7 +8,7 @@
   <project path="device/samsung/j5ltexx" name="j5-Dev/android_device_samsung_j5ltexx" remote="github" revision="cm-14.1" />
   <project path="device/samsung/j7eltexx" name="Exynos7580/android_device_samsung_j7eltexx" remote="github" revision="cm-14.1" />
   <project path="device/samsung/grandprimeve3g" name="remilia15/android_device_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
-  <project path="device/lenovo/a6000" name="dev-harsh1998/android_device_lenovo_a6000" remote="github" revision="cm-14.1-new" />
+  <project path="device/lenovo/a6000" name="HassanSardar/android_device_lenovo_a6000" remote="github" revision="Liquid" />
 
  <!-- Common Trees -->
   <project path="device/samsung/fortunaxx-common" name="Samsung-MSM8916/android_device_samsung_fortunaxx-common" remote="github" revision="cm-14.1" />
@@ -36,7 +36,7 @@
   <project path="kernel/samsung/j5lte" name="j5-Dev/kernel_samsung_j5lte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/a3xelte" name="Exynos7580/android_kernel_samsung_a3xelte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-RZ" remote="github" revision="cm-14.1"/>
-  <project path="kernel/lenovo/a6000" name="dev-harsh1998/kernel_lenovo_msm8916" remote="github" revision="Liquid" />
+  <project path="kernel/lenovo/a6000" name="HassanSardar/kernel_lenovo_msm8916" remote="github" revision="Liquid" />
 
  <!-- Extras -->
   <!-- project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" / -->
