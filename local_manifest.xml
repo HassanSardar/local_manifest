@@ -33,7 +33,7 @@
 
 <!-- Kernel -->
   <project path="kernel/samsung/fortunaxx" name="Samsung-MSM8916/android_kernel_samsung_msm8916" remote="github" revision="cm-14.1" />
-  <project path="kernel/samsung/j5lte" name="j5-Dev/kernel_samsung_j5lte" remote="github" revision="cm-14.1-new" />
+  <project path="kernel/samsung/j5lte" name="j5-Dev/kernel_samsung_j5lte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/a3xelte" name="Exynos7580/android_kernel_samsung_a3xelte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-RZ" remote="github" revision="cm-14.1"/>
   <project path="kernel/lenovo/a6000" name="dev-harsh1998/kernel_lenovo_msm8916" remote="github" revision="cm-14.1" />
