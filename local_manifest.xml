@@ -36,7 +36,7 @@
   <project path="kernel/samsung/j5lte" name="j5-Dev/kernel_samsung_j5lte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/a3xelte" name="Exynos7580/android_kernel_samsung_a3xelte" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-RZ" remote="github" revision="cm-14.1"/>
-  <project path="kernel/lenovo/a6000" name="HassanSardar/kernel_lenovo_msm8916" remote="github" revision="Liquid" />
+  <project path="kernel/lenovo/a6000" name="HassanSardar/android_kernel_hyper_msm8916" remote="github" revision="Liquid" />
 
  <!-- Extras -->
   <!-- project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" / -->
