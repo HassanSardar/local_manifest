@@ -15,6 +15,7 @@
   <project path="device/samsung/scx30g2-common" name="remilia15/android_device_samsung_scx30g2-common" remote="XOSPD" revision="cm-14.1"/>
   <project path="device/samsung/scx35-common" name="remilia15/android_device_samsung_scx35-common" remote="XOSPD" revision="cm-14.1"/>
   <project path="vendor/samsung/scx30g2-common" name="remilia15/android_vendor_samsung_scx30g2-common" remote="XOSPD" revision="cm-14.1"/>
+  <project path="device/hyper/msm8916-common" name="HyperTeam/android_device_hyper_msm8916-common" remote="XOSPD" revision="cm-14.1"/>
  
 <!-- Vendor -->
   <project path="vendor/samsung/fortuna3g" name="Samsung-MSM8916/android_vendor_samsung_fortuna3g" remote="XOSPD" revision="cm-14.1" />
