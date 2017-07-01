@@ -11,7 +11,7 @@
   <project path="vendor/lenovo" name="dev-harsh1998/proprietary-vendor_lenovo" remote="github" revision="cm-14.1" />
  
 <!-- Kernel -->
-  <project path="kernel/lenovo/a6000" name="HassanSardar/android_kernel_hyper_msm8916" remote="github" revision="ViperOS" />
+  <project path="kernel/lenovo/a6000" name="HassanSardar/kernel_lenovo_msm8916" remote="github" revision="Viper" />
  
  <!-- Extras -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
