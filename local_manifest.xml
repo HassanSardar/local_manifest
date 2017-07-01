@@ -5,8 +5,8 @@
   <project path="device/samsung/fortuna3g" name="Samsung-MSM8916/android_device_samsung_fortuna3g" remote="XOSPD" revision="cm-14.1" />
   <project path="device/samsung/fortunave3g" name="Samsung-MSM8916/android_device_samsung_fortunave3g" remote="XOSPD" revision="cm-14.1" />
   <project path="device/samsung/fortunafz" name="Samsung-MSM8916/android_device_samsung_fortunafz" remote="XOSPD" revision="cm-14.1" />
-  <project path="device/samsung/grandprimeve3g" name="remilia15/android_device_samsung_grandprimeve3g" remote="XOSPD" revision="cm-14.1"/>
-  <project path="device/lenovo/a6000" name="dev-harsh1998/android_device_lenovo_a6000" remote="XOSPD" revision="cm-14.1-new" /> 
+  <project path="device/samsung/grandprimeve3g" name="GalaxyGrandPrime/android_device_samsung_grandprimeve3g" remote="XOSPD" revision="xosp-n"/>
+  <project path="device/lenovo/a6000" name="HassanSardar/android_device_lenovo_a6000" remote="XOSPD" revision="XOSP" /> 
  
  <!-- Common Trees -->
   <project path="device/samsung/fortunaxx-common" name="Samsung-MSM8916/android_device_samsung_fortunaxx-common" remote="XOSPD" revision="cm-14.1" />
@@ -24,8 +24,8 @@
  
 <!-- Kernel -->
   <project path="kernel/samsung/fortunaxx" name="Samsung-MSM8916/android_kernel_samsung_msm8916" remote="XOSPD" revision="cm-14.1" />
-  <project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-RZ" remote="XOSPD" revision="cm-14.1"/>
-  <project path="kernel/lenovo/a6000" name="dev-harsh1998/kernel_lenovo_msm8916" remote="XOSPD" revision="cm-14.1" />
+  <project path="kernel/samsung/sprd" name="GalaxyGrandPrime/android_kernel_samsung_sprd" remote="XOSPD" revision="XOSP"/>
+  <project path="kernel/lenovo/a6000" name="HyperTeam/android_kernel_hyper_msm8916" remote="XOSPD" revision="cm-14.1" />
  
  <!-- Extras -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="XOSPD" revision="cm-14.1" />
