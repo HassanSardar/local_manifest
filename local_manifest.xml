@@ -24,13 +24,13 @@
   <project path="vendor/samsung/fortuna3g" name="Samsung-MSM8916/android_vendor_samsung_fortuna3g" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunave3g" name="Samsung-MSM8916/android_vendor_samsung_fortunave3g" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunafz" name="Samsung-MSM8916/android_vendor_samsung_fortunafz" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung/j5ltexx" name="TeamHorizon/proprietary_vendor_samsung_j5ltexx" remote="github" revision="cm-14.1" />
+  <project path="vendor/samsung/j5ltexx" name="TeamHorizon/proprietary_vendor_samsung_j5ltexx" remote="github" revision="n" />
   <project path="vendor/samsung/grandprimeve3g" name="TeamHorizon/android_vendor_samsung_grandprimeve3g" remote="github" revision="n"/>
   <project path="vendor/lenovo" name="dev-harsh1998/proprietary-vendor_lenovo" remote="github" revision="cm-14.1" />
 
 <!-- Kernel -->
   <project path="kernel/samsung/fortunaxx" name="Samsung-MSM8916/android_kernel_samsung_msm8916" remote="github" revision="cm-14.1" />
-  <project path="kernel/samsung/j5lte" name="j5-Dev/kernel_samsung_j5lte" remote="github" revision="cm-14.1" />
+  <project path="kernel/samsung/j5lte" name="TeamHorizon/kernel_samsung_j5lte" remote="github" revision="n" />
   <project path="kernel/samsung/grandprimeve3g" name="TeamHorizon/android_kernel_samsung_grandprimeve3g" remote="github" revision="n"/>
   <project path="kernel/lenovo/a6000" name="dev-harsh1998/kernel_lenovo_msm8916" remote="github" revision="cm-14.1" />
 
