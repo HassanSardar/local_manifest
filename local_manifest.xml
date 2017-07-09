@@ -5,7 +5,7 @@
   <project path="device/samsung/fortuna3g" name="TeamHorizon/android_device_samsung_fortuna3g" remote="github" revision="cm-14.1" />
   <project path="device/samsung/fortunave3g" name="TeamHorizon/android_device_samsung_fortunave3g" remote="github" revision="cm-14.1" />
   <project path="device/samsung/fortunafz" name="TeamHorizon/android_device_samsung_fortunafz" remote="github" revision="cm-14.1" />
-  <project path="device/samsung/j5ltexx" name="j5-Dev/android_device_samsung_j5ltexx" remote="github" revision="cm-14.1" />
+  <project path="device/samsung/j5ltexx" name="TeamHorizon/android_device_samsung_j5ltexx" remote="github" revision="n" />
   <project path="device/samsung/grandprimeve3g" name="TeamHorizon/android_device_samsung_grandprimeve3g" remote="github" revision="n"/>
   <project path="device/lenovo/a6000" name="dev-harsh1998/android_device_lenovo_a6000" remote="github" revision="cm-14.1" />
 
@@ -24,7 +24,7 @@
   <project path="vendor/samsung/fortuna3g" name="Samsung-MSM8916/android_vendor_samsung_fortuna3g" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunave3g" name="Samsung-MSM8916/android_vendor_samsung_fortunave3g" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/fortunafz" name="Samsung-MSM8916/android_vendor_samsung_fortunafz" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung/j5ltexx" name="j5-Dev/proprietary_vendor_samsung_j5ltexx" remote="github" revision="cm-14.1" />
+  <project path="vendor/samsung/j5ltexx" name="TeamHorizon/proprietary_vendor_samsung_j5ltexx" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/grandprimeve3g" name="TeamHorizon/android_vendor_samsung_grandprimeve3g" remote="github" revision="n"/>
   <project path="vendor/lenovo" name="dev-harsh1998/proprietary-vendor_lenovo" remote="github" revision="cm-14.1" />
 
